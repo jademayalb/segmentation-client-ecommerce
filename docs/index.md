@@ -16,8 +16,8 @@ Les objectifs clés de ce projet sont les suivants :
 
 Vous trouverez ci-dessous les liens vers les principaux livrables de ce projet :
 
-* **Présentation PDF :** https://github.com/jademayalb/segmentation-client-ecommerce/blob/1c35201caa35bf3ca57689233e1bd796ba63fbdd/data/presentation.pdf 
-* **Notebook d'Exploration des Données :** 
+* * **Présentation PDF :** https://github.com/jademayalb/segmentation-client-ecommerce/blob/1c35201caa35bf3ca57689233e1bd796ba63fbdd/data/presentation.pdf
+* * **Notebook d'Exploration des Données :** 
 * **Notebook d'Essais et Modélisation :** 
 * **Notebook de Simulation et Maintenance :** 
 * **Fichier de Fonctions Utilitaires :** 
