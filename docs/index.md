@@ -21,4 +21,4 @@ Vous trouverez ci-dessous les liens vers les principaux livrables de ce projet :
 * **Notebook d'Essais et Modélisation :** https://github.com/jademayalb/segmentation-client-ecommerce/blob/8d64c935ea4334e35efc1e9db8f1280ad82032ea/notebooks/notebook_essais.ipynb
 * **Notebook de Simulation et Maintenance :** https://github.com/jademayalb/segmentation-client-ecommerce/blob/8f2fc6e4b99c6a2c7f175f07ba3d15aefec7b87a/notebooks/notebook_simulation.ipynb
 * **Fichier de Fonctions Utilitaires :** https://github.com/jademayalb/segmentation-client-ecommerce/blob/69199fe953d65e0b70e52dcbc95d523dea32d686/notebooks/fonctions.ipynb
-* **Script SQL :** 
+* **Script SQL :** https://github.com/jademayalb/segmentation-client-ecommerce/blob/3dc26f36f9f3aee531b15a2714a2800fb4c9a65d/sql/script.sql
