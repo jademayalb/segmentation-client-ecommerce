@@ -1,2 +1,5 @@
-# segmentation-client-ecommerce
-Projet de Data Science – segmentation client
+# Projet Segmentation Client e-commerce
+
+Bienvenue sur mon dépôt GitHub dédié à un projet de segmentation client pour un site e-commerce.
+
+➡️ Pour une présentation complète et détaillée, consultez la page web :  
