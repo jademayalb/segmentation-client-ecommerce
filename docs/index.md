@@ -16,9 +16,9 @@ Les objectifs clés de ce projet sont les suivants :
 
 Vous trouverez ci-dessous les liens vers les principaux livrables de ce projet :
 
-* [* **Presentation du projet :**](https://github.com/jademayalb/segmentation-client-ecommerce/blob/1c35201caa35bf3ca57689233e1bd796ba63fbdd/data/presentation.pdf)
-* [* **Notebook d'Exploration des Données :**](https://github.com/jademayalb/segmentation-client-ecommerce/blob/fdc5859645e40dcf05081b974330caaf50cce5d1/notebooks/notebook_exploration.ipynb)
-* [* **Notebook d'Essais et Modélisation :**](https://github.com/jademayalb/segmentation-client-ecommerce/blob/8d64c935ea4334e35efc1e9db8f1280ad82032ea/notebooks/notebook_essais.ipynb)
-* [* **Notebook de Simulation et Maintenance :**](https://github.com/jademayalb/segmentation-client-ecommerce/blob/8f2fc6e4b99c6a2c7f175f07ba3d15aefec7b87a/notebooks/notebook_simulation.ipynb)
-* [* **Fichier de Fonctions Utilitaires :**](https://github.com/jademayalb/segmentation-client-ecommerce/blob/69199fe953d65e0b70e52dcbc95d523dea32d686/notebooks/fonctions.ipynb)
-* [* **Script SQL :**](https://github.com/jademayalb/segmentation-client-ecommerce/blob/3dc26f36f9f3aee531b15a2714a2800fb4c9a65d/sql/script.sql)
+* [* **Presentation du projet**](https://github.com/jademayalb/segmentation-client-ecommerce/blob/1c35201caa35bf3ca57689233e1bd796ba63fbdd/data/presentation.pdf)
+* [* **Notebook d'Exploration des Données**](https://github.com/jademayalb/segmentation-client-ecommerce/blob/fdc5859645e40dcf05081b974330caaf50cce5d1/notebooks/notebook_exploration.ipynb)
+* [* **Notebook d'Essais et Modélisation**](https://github.com/jademayalb/segmentation-client-ecommerce/blob/8d64c935ea4334e35efc1e9db8f1280ad82032ea/notebooks/notebook_essais.ipynb)
+* [* **Notebook de Simulation et Maintenance**](https://github.com/jademayalb/segmentation-client-ecommerce/blob/8f2fc6e4b99c6a2c7f175f07ba3d15aefec7b87a/notebooks/notebook_simulation.ipynb)
+* [* **Fichier de Fonctions Utilitaires**](https://github.com/jademayalb/segmentation-client-ecommerce/blob/69199fe953d65e0b70e52dcbc95d523dea32d686/notebooks/fonctions.ipynb)
+* [* **Script SQL**](https://github.com/jademayalb/segmentation-client-ecommerce/blob/3dc26f36f9f3aee531b15a2714a2800fb4c9a65d/sql/script.sql)
